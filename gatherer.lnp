@@ -1,0 +1,8 @@
+"DELAY.obj",
+"main.obj",
+"NRF24L01.obj",
+"schduler.obj",
+"uart.obj",
+"gatherer.obj" 
+TO "gatherer" 
+RAMSIZE(256) 
